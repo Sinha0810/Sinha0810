@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Swati Sinha
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python
 - 📫 How to reach me swatisinha0810@gmail.com
 
